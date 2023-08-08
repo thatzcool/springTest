@@ -1,4 +1,4 @@
-package com.multicampus.srpingex.sample;
+package com.multicampus.springex.sample;
 
 import lombok.RequiredArgsConstructor;
 import lombok.ToString;
